@@ -11,7 +11,6 @@ class Book(models.Model):
     description = models.TextField()
     image_url = models.CharField(max_length=255)
   # Add the image URL field
-
     # Add more fields as per your requirements
 
     # Add more fields as per your requirements
